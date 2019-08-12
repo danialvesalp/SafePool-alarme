@@ -1,0 +1,36 @@
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe.config
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.pdb
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.xml
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.vbprojResolveAssemblyReference.cache
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Form1.resources
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Resources.resources
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.vbproj.GenerateResource.Cache
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.exe
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.xml
+C:\Users\milla\Documents\ProjetosOCV\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.pdb
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe.config
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.exe
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.xml
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.pdb
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.pdb
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.xml
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Form1.resources
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Resources.resources
+C:\Users\milla\Documents\Visual Studio 2015\Projects\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.vbproj.GenerateResource.Cache
+C:\Users\milla\Desktop\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe.config
+C:\Users\milla\Desktop\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.exe
+C:\Users\milla\Desktop\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.xml
+C:\Users\milla\Desktop\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.pdb
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe.config
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.exe
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.xml
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.pdb
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.exe
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.pdb
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Debug\AlarmeArduino.xml
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.vbprojResolveAssemblyReference.cache
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Form1.resources
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.Resources.resources
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Debug\AlarmeArduino.vbproj.GenerateResource.Cache

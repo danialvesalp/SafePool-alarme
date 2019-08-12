@@ -1,0 +1,11 @@
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Release\AlarmeArduino.exe.config
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Release\AlarmeArduino.exe
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Release\AlarmeArduino.pdb
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\bin\Release\AlarmeArduino.xml
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.vbprojResolveAssemblyReference.cache
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.Form1.resources
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.Resources.resources
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.vbproj.GenerateResource.Cache
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.exe
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.xml
+D:\Meus Documentos\Inatel\P6\AC 306\DisparoAlarme\DisparoAlarme\AlarmeArduino\AlarmeArduino\obj\Release\AlarmeArduino.pdb
